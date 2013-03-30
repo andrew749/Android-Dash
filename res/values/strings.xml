@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Android Dash</string>
+    <string name="greeting">Android Dash pre alpha</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Android Dash</string>
+
+</resources>
